@@ -1,0 +1,1 @@
+alert('Michal Jordan said: "The key to success is failiure"')
